@@ -14,7 +14,9 @@
     <!-- Looping Menu-->
 
         <!-- Heading -->
-        <div class="sidebar-heading"> Master Data </div>
+        <div class="sidebar-heading">
+            Master Data
+        </div>
 
         <!-- Nav Item - Dashboard -->
         <li class="nav-item active">
@@ -31,8 +33,10 @@
                 <span>Data Anggota</span></a>
             </li>
         </li>
+
         <!-- Divider -->
         <hr class="sidebar-divider mt-3">
+
     <!-- Sidebar Toggler (Sidebar) -->
     <div class="text-center d-none d-md-inline">
         <button class="rounded-circle border-0" id="sidebarToggle"></button>
